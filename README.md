@@ -40,11 +40,8 @@ plot2d3(y)
 title('Graphical Representation of output Signal y');
 ```
 ### CALCULATIONS:
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="706" height="1280" alt="image" src="https://github.com/user-attachments/assets/5b81621b-5113-4c56-b0bc-ed4bcb729283" />
+
 ### SAMPLE OUTPUT:
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/3cad32a5-6d90-4394-8326-0a624337fd83" />
 
@@ -99,11 +96,8 @@ title('circular convolution');
 
 <br>
 ### CALCULATIONS:
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="867" height="1280" alt="image" src="https://github.com/user-attachments/assets/cb2ac60b-db60-4c5f-b3a3-0039b8d8d06c" />
+
 ### SAMPLE OUTPUT:
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/04952ca2-ec12-42f0-894c-a6894d16de68" />
 
